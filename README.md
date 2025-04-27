@@ -99,7 +99,9 @@ Highlight the most important features of your project:
 - ✅ Feature 4 : Smart Reply Suggestions
   Provides context-aware, AI-generated reply options to expedite responses and improve user engagement.
 
+  ![WhatsApp Image 2025-04-27 at 02 49 43_9766e383](https://github.com/user-attachments/assets/a69fce9d-2e53-4170-83b6-c1f0cc1ee995)
 
+  ![WhatsApp Image 2025-04-27 at 02 50 18_886b5c7d](https://github.com/user-attachments/assets/78ef0c06-37cd-44ce-b52d-2faaba8ae6d4)
 
 ---
 
