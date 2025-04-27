@@ -166,8 +166,11 @@ List improvements, extensions, or follow-up features:
 - APIs (MongoDb, Cloudinary, Groq API)  
 - Acknowledgements:
   https://medium.com/@ibrahimhz/getting-started-with-mern-stack-a-comprehensive-guide-9c9225bfdafe
+  
   https://dev.to/itsnitinr/the-ultimate-guide-to-mern-stack-1051
+  
   https://console.groq.com/docs/api-reference#chat-create
+  
   ChatGPT: for error resolution
 ---
 
